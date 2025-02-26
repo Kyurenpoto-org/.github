@@ -3,11 +3,11 @@
  SPDX-License-Identifier: MIT
 -->
 
-## CHECK LIST
+# CHECK LIST
 
 - [ ] Run regression tests
 - [ ] Test in local environment
 
-## Current behavior
+# Current behavior
 
-## Expected behavior
+# Expected behavior
