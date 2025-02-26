@@ -3,6 +3,6 @@
  SPDX-License-Identifier: MIT
 -->
 
-## Current behavior
+# Current behavior
 
-## Expected behavior
+# Expected behavior

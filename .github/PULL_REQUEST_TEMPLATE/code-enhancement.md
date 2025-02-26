@@ -3,12 +3,12 @@
  SPDX-License-Identifier: MIT
 -->
 
-## CHECK LIST
+# CHECK LIST
 
 - [ ] Run regression tests
 - [ ] Test in local environment (from unit tests to E2E tests)
 - [ ] Modify codes after PR for tests merged
 
-## Current behavior
+# Current behavior
 
-## Expected behavior
+# Expected behavior
