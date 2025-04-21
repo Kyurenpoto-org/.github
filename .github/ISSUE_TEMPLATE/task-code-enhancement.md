@@ -1,7 +1,7 @@
 ---
 name: "Code Enhancement"
 about: "Your todo list about code enhancement"
-title: "[FEATURE|REFACTOR|STYLE|TEST|PERF] Summary"
+title: "[CODE|REFACTOR|OBSOLETE|STYLE|TEST|PERF] Summary"
 labels: "code-enhancement"
 assignees: "Kyurenpoto"
 ---

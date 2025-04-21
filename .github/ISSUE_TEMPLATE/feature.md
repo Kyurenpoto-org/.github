@@ -1,7 +1,7 @@
 ---
 name: "New Feature"
 about: "Your suggests in feature level"
-title: "[BUILD|CI|DOCS|FEATURE|FIX|REFACTOR|STYLE|TEST|PERF] Summary"
+title: "[BUILD|CI|DOCS|CODE|FIX|REFACTOR|STYLE|TEST|PERF] Summary"
 labels: "enhancement"
 assignees: "Kyurenpoto"
 ---

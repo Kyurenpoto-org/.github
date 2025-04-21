@@ -1,4 +1,4 @@
-[feature|fix|refactor|style|test|perf|build|ci|docs|obsolete|revert](<targets>) <summary>
+[code|fix|refactor|style|test|perf|build|ci|docs|obsolete|revert](<targets>) <summary>
 
 <body>
 
